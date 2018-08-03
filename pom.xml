@@ -4,15 +4,11 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.pradeeph</groupId>
-    <artifactId>glcm_VmcBranch</artifactId>
+    <artifactId>common</artifactId>
     <packaging>pom</packaging>
     <version>1.0.0</version>
 
-    <modules>
-        <module>bringup</module>
-    </modules>
-
-	<build>
+    <build>
         <plugins>
             <plugin>
                 <groupId>org.apache.maven.plugins</groupId>

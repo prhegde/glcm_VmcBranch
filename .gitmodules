@@ -1,0 +1,3 @@
+[submodule "glcm_VmcBranch"]
+	path = glcm_VmcBranch
+	url = git@github.com:prhegde/glcm_VmcBranch.git

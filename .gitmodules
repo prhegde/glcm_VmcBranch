@@ -1,6 +1,0 @@
-[submodule "glcm_VmcBranch"]
-	path = glcm_VmcBranch
-	url = git@github.com:prhegde/glcm_VmcBranch.git
-[submodule "common/glcm_VmcBranch"]
-	path = common/glcm_VmcBranch
-	url = git@github.com:prhegde/glcm_VmcBranch.git
